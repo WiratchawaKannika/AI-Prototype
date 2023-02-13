@@ -21,7 +21,7 @@ if __name__ == "__main__":
     print_other()
     
     print(f"value of M positional argument ==>: {x.m}")
-    print(f"value of x ==>: {x.x}")
+    print(f"value of xt ==>: {(x.x)*2}")
     print(f"value of y ==>: {x.yval}")
 
 
