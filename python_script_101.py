@@ -17,12 +17,12 @@ def print_ones():
 
 if __name__ == "__main__":
     x = parse_input()
-    print_ones()
-    print_other()
+    #print_ones()
+    #print_other()
     
-    print(f"value of M positional argument ==>: {x.m}")
-    print(f"value of xt ==>: {(x.x)*2}")
-    print(f"value of y ==>: {x.yval}")
+    print(f"m = {x.m}")
+    print(f"xt = {(x.x)*2}")
+    print(f"YVAL = {x.yval}")
 
 
 
