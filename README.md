@@ -43,7 +43,7 @@
 - :point_right: **[testflask.py](https://github.com/WiratchawaKannika/AIprototype65/blob/main/testflask.py)**
 - :point_right: **[Home .html templates](https://github.com/WiratchawaKannika/AIprototype65/blob/main/templates/home.html)**
 
-- :point_right: **[ WebApp Repositories ](https://github.com/WiratchawaKannika/AIprototype65/blob/main/templates/home.html)** 🤗🤗
+- :point_right: **[ WebApp Repositories ](https://github.com/WiratchawaKannika/WebApp_aiprototype)** 🤗🤗
 
 
 ---
